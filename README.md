@@ -1,17 +1,17 @@
 # 🚗 Urban Routes – Requirements Analysis & Test Design
 
-## 📌 Project Overview
-
-This project focuses on **requirements analysis and test design** for the **Car Sharing** feature in the **Urban Routes** application.  
-The objective was to analyze incomplete requirements, identify gray areas, and design structured QA artifacts **before test execution**, applying industry-standard QA techniques.
-
----
-
 ## 🗓️ Project Details
 
 - **Type:** QA Bootcamp Project (TripleTen LatAm)  
 - **Execution Date:** February 2025  
-- **Status:** Completed and Approved  
+- **Status:** Completed and Approved
+
+---
+
+## 📌 Project Overview
+
+This project focuses on **requirements analysis and test design** for the **Car Sharing** feature in the **Urban Routes** application.  
+The objective was to analyze incomplete requirements, identify gray areas, and design structured QA artifacts **before test execution**, applying industry-standard QA techniques.
 
 ---
 
